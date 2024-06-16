@@ -3,7 +3,8 @@
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
 /*    url(/css/addons/unraid/login-page/alien/wallpaper/hallway.jpg) center center/cover no-repeat fixed;  */
     url(http://192.168.85.19/stuff/unraid/logon-screen/bg.jpg) 
-    --logo: url(/css/addons/unraid/login-page/alien/logo/wings_green.png) center no-repeat;
+/*    --logo: url(/css/addons/unraid/login-page/alien/logo/wings_green.png) center no-repeat;  */
+    --logo: url(http://192.168.85.19/stuff/unraid/logon-screen/logo.png)  
     --text-color: #37f592;
     --input-color: #37f592;
     --link-color: #37f592;
